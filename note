@@ -1,0 +1,17 @@
+- scala 的方法和函数是有区别的
+- Effective Scala:类型别名
+- Tour of Scala:子类化
+- Effective Scala:特质
+- 泛型函数
+- apply函数
+- object 伴生对象可与class同名
+- Effective Scala 对什么时候使用模式匹配 和 模式匹配格式化的建议
+- A Tour of Scala 也描述了 模式匹配
+- 样本类与模式匹配
+- Effective Scala 对怎样使用 集合的观点
+- Effective Scala 对 解构绑定 （“拆解”一个元组）的观点。
+- Effective Scala 对flatMap的意见
+- compose & andThen
+- PartialFunction & case & orElse
+- val two: PartialFunction[Int, String] = { case 2 => "two" }
+- scala的变性
