@@ -19,9 +19,9 @@ project/plugins/project/
 .worksheet
 
 # IDEA
+.idea/
 .idea/modules
 .idea/libraries
-.idea/
 target/
 *.iml
 *.ini
